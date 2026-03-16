@@ -10,6 +10,7 @@ plt.xlabel("Brand")
 plt.ylabel("Count")
 plt.xticks(rotation=45)
 plt.grid(axis='y')
+plt.savefig("brand_count_pie_chart.png")
 plt.show()
 
 stock_range=df["stock"].max() - df["stock"].min()

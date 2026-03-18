@@ -8,5 +8,6 @@ plt.ylabel('Values')
 
 plt.legend()
 plt.grid()
+
 plt.savefig('line_plot.png')
 plt.show()

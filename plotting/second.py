@@ -5,7 +5,6 @@ plt.plot(x,y,color='blue', marker='o', linestyle='--')
 plt.title('Line Plot')
 plt.xlabel('Days of the Week')
 plt.ylabel('Values')
-
 plt.legend()
 plt.grid()
 

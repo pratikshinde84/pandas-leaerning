@@ -7,4 +7,5 @@ block = bytes.fromhex(header)
 h1 = hashlib.sha256(block).digest()
 h2 = hashlib.sha256(h1).digest()
 
+
 print(h2[::-1].hex())

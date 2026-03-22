@@ -8,4 +8,5 @@ y=[10,20,25,15]
 plt.plot(x,y)
 plt.xlabel("ages")
 plt.ylabel("numbers")
+
 plt.show()

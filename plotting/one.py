@@ -10,3 +10,4 @@ plt.xlabel("ages")
 plt.ylabel("numbers")
 
 plt.show()
+a

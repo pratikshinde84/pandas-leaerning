@@ -9,5 +9,5 @@ plt.plot(x,y)
 plt.xlabel("ages")
 plt.ylabel("numbers")
 
-
+=
 plt.show()
